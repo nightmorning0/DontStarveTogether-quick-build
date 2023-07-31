@@ -80,7 +80,7 @@ This operation will generate a token for you. The game company need it to identi
 
 Next, go to create a new world, or you can even use an existing world. Then, click on `Manage World` and you will see the interface like bellow:
 
-![img]()./pics/p1.png)
+<img src="https://raw.githubusercontent.com/nightmorning0/DontStarveTogether-quick-build/master/pics/p1.png" alt="img" style="zoom: 67%;" />
 
 Click on `Open World Folder` and you will see a window bump out, that is the location of your configure files, named like `Cluster_*`. And at its parent folder, there will be a token file named `cluster_token.txt`. Move `cluster_token.txt` to your `Cluster_*` folder, copy the folder to this project, and rename it as `Cluster_1`. The project tree should be like:
 
